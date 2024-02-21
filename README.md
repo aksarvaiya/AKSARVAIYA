@@ -1,5 +1,5 @@
 👋 Hi, I’m @AKSARVAIYA
-- 🔭 I’m currently working on ReactJS
+- 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me: ankitsarvaiya.kbc@gmail.com
 <!--
